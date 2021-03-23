@@ -1,6 +1,6 @@
 # trie_regex
 Speed up regex searching by trans regex pattern to trie form.
-Code from stackoverflow [Speed up millions of regex replacements in Python 3](https://stackoverflow.com/questions/42742810/speed-up-millions-of-regex-replacements-in-python-3)
+Code from stackoverflow [Speed up millions of regex replacements in Python 3](https://stackoverflow.com/questions/42742810/speed-up-millions-of-regex-replacements-in-python-3).
 
 # 简介
 利用前缀树形式的正则pattern来加速匹配。虽比不上AC算法效率，但胜在方便，遂取随用。
